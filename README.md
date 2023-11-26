@@ -1,8 +1,8 @@
-The roots of AutoLISP
-Ricardo Arellano, 2023
+# The roots of AutoLISP
+## Ricardo Arellano, 2023
 
 
-'Programs must be written for people to read, and only incidentally for machines to execute.'
+*'Programs must be written for people to read, and only incidentally for machines to execute.'*
 —Abelson & Sussman, Structure and Interpretation of Computer Programs. 
 
 
@@ -228,7 +228,7 @@ Running it becomes secondary, which means this whole enterprise will be for the 
 
 …
 
-AutoLISP is a dialect of the programming language Lisp built specifically for use with the full version of AutoCAD and its derivatives.
+*AutoLISP is a dialect of the programming language Lisp built specifically for use with the full version of AutoCAD and its derivatives.*
 
 
 
